@@ -8,7 +8,7 @@ Step 1: You have  to create an account in https://www.themoviedb.org/ an get you
 
 Step 2: put your api in the file requests  ---> const API_KEY="XXXXXXXXXXXXXXXXXXXXXXXXXX";
 
-Step 3: run yarn install or npm install <>
+Step 3: run yarn install or npm install <><>
 
 <h3>That's pretty much it!</h3>
 
